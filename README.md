@@ -1,5 +1,8 @@
 
+
 # Project Oasis
+
+![Introduction](./project_oasis.mp4)
 
 ![Couple tryout out changing weather in Oasis ](./first_view.jpg)
 
