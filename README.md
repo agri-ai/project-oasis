@@ -1,9 +1,9 @@
 
 # Project Oasis
 
-![Couple tryout out changing weather in Oasis ](https://lh3.googleusercontent.com/WITjb-PESL3irynU1flON7eEbzo4Tn4o2A1QZUf2HsuVYDX9U34uIrlck-Y_dZgklv9ccT6KW_7z_XuQSka-66QCbXb2hA)
+![Couple tryout out changing weather in Oasis ](./first_view.jpg)
 
-![Weather Updating Video Clip](https://lh3.googleusercontent.com/x0nBb8LJACKMaM-yp0gnjZxQrOFkeGv89TZXSfiQ154vmCNOWIV2jNO4DpstBHFdpmOS-yZS6EqkVzNM6rcbev22hUIQQw)
+![Weather Updating Video Clip](./oasis.gif)
 Project Oasis is a voice controlled terrarium that recreates outside weather inside a box. You can talk to it to ask about weather or ask it to create certain conditions. It currently recreates rain, clouds and lighting in a self sufficient closed and living ecosystem.
 
 ## Overview
